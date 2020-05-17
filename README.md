@@ -1,2 +1,0 @@
-# msp
- repositorio msp
